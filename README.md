@@ -20,7 +20,7 @@ Studio e progetti di un PC basato su processore Intel 8088 8Bit
 -  https://www.youtube.com/@elijahmmiller
 -  https://www.youtube.com/@alexthelion335
 -  https://www.youtube.com/@JohnsBasement
--  
+  
 -  https://www.youtube.com/@adriansdigitalbasement
 -  https://www.youtube.com/@PsychogenicTechnologies
 -  https://www.youtube.com/@KludgesFromKevinsCave
@@ -41,5 +41,7 @@ Studio e progetti di un PC basato su processore Intel 8088 8Bit
 #  e molti molti altri. Grazie !
   
 ## Software utili ( solo alcuni, lista non aggiornata... ):
--  https://logic.ly/demo/
--  https://www.kicad.org/
+
+- [Logicly](https://logic.ly/demo/)
+- [Kicad](https://www.kicad.org/) - CAD Utilizzato per la realizzazione degli schemi elettrici ( e circuiti stampati )
+- [Circuitverse Simulator](https://circuitverse.org/simulator) - Importare i file dalla cartella Simulatore_Logica
