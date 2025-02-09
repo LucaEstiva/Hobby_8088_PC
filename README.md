@@ -10,7 +10,7 @@ Studio e progetti di un PC basato su processore Intel 8088 8Bit
 >
 > PS: Il WEB è pieno di risorse utili, il sottoscritto ne possiede alcuni Terabytes :)
 
-## Fonti ( solo alcune, lista non aggioranta... ):
+## Fonti ( solo alcune, lista non aggiornata... ):
 -  https://it.wikipedia.org/wiki/IBM_Personal_Computer_XT
 
 ## Riferimenti:
@@ -19,7 +19,8 @@ Studio e progetti di un PC basato su processore Intel 8088 8Bit
 -  https://www.youtube.com/@SladorSoft
 -  https://www.youtube.com/@elijahmmiller
 -  https://www.youtube.com/@alexthelion335
-
+-  https://www.youtube.com/@JohnsBasement
+-  
 -  https://www.youtube.com/@adriansdigitalbasement
 -  https://www.youtube.com/@PsychogenicTechnologies
 -  https://www.youtube.com/@KludgesFromKevinsCave
@@ -39,6 +40,6 @@ Studio e progetti di un PC basato su processore Intel 8088 8Bit
 
 #  e molti molti altri. Grazie !
   
-## Software utili ( solo alcuni, lista non aggioranta... ):
+## Software utili ( solo alcuni, lista non aggiornata... ):
 -  https://logic.ly/demo/
 -  https://www.kicad.org/
