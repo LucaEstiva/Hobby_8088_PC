@@ -12,6 +12,7 @@ Studio e progetti di un PC basato su processore Intel 8088 8Bit
 
 ## Fonti ( solo alcune, lista non aggiornata... ):
 -  https://it.wikipedia.org/wiki/IBM_Personal_Computer_XT
+-  https://www.vlsisystemdesign.com/propagation-delay-of-cmos-inverter/
 
 ## Riferimenti:
 -  https://www.youtube.com/@breadboardinglabs
