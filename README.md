@@ -50,3 +50,6 @@ Studio e progetti di un PC basato su processore Intel 8088 8Bit
 - [Logicly](https://logic.ly/demo/)
 - [Kicad](https://www.kicad.org/) - CAD Utilizzato per la realizzazione degli schemi elettrici ( e circuiti stampati )
 - [Circuitverse Simulator](https://circuitverse.org/simulator) - Importare i file dalla cartella Simulatore_Logica
+
+## Libri:
+- [The 80x86 IBM PC and compatible computers. Volumes I & II, Assembly language, design, and interfacing]([https://logic.ly/demo/](https://archive.org/details/80x86ibmpccompat0001mazi/page/n1/mode/2up))
