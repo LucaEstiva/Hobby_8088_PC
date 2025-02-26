@@ -23,9 +23,9 @@ Studio e progetti di un PC basato su processore Intel 8088 8Bit
 -  https://www.youtube.com/@JohnsBasement
 -  https://www.youtube.com/@elijahmmiller
 -  ---
-  
 -  https://www.youtube.com/@adriansdigitalbasement
 -  https://www.youtube.com/@PsychogenicTechnologies
+-  https://www.youtube.com/@DrMattRegan
 -  https://www.youtube.com/@KludgesFromKevinsCave
 -  https://www.youtube.com/@nesoacademy
 -  ---
