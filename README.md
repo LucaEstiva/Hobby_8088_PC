@@ -33,16 +33,15 @@ Studio e progetti di un PC basato su processore Intel 8088 8Bit
 -  https://www.zimmers.net/
 
 -  ---
-- [Digikey FPGA]([https://logic.ly/demo/](https://www.youtube.com/watch?v=lLg1AgA2Xoo&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb&ab_channel=DigiKey))
-- 
--  https://www.minuszerodegrees.net/
+- [Digikey FPGA](https://www.youtube.com/watch?v=lLg1AgA2Xoo&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb&ab_channel=DigiKey)
+- https://www.minuszerodegrees.net/
 
--  https://archive.org/
--  https://archive.org/details/practicaldesignu0000pell/page/n1/mode/2up
+- https://archive.org/
+- https://archive.org/details/practicaldesignu0000pell/page/n1/mode/2up
 
--  https://www.electronics-tutorials.ws/oscillator/crystal.html
--  ---
-#  e molti molti altri. Grazie !
+- https://www.electronics-tutorials.ws/oscillator/crystal.html
+- ---
+# e molti molti altri. Grazie !
   
 ## Software utili ( solo alcuni, lista non aggiornata... ):
 
