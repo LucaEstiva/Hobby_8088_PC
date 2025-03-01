@@ -33,7 +33,7 @@ Studio e progetti di un PC basato su processore Intel 8088 8Bit
 -  https://www.zimmers.net/
 -  https://github.com/skiselev
 -  https://www.malinov.com/sergeys-projects/
--  
+
 -  ---
 - [Digikey FPGA](https://www.youtube.com/watch?v=lLg1AgA2Xoo&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb&ab_channel=DigiKey)
 - https://www.minuszerodegrees.net/
