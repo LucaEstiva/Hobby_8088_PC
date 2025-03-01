@@ -31,7 +31,7 @@ Studio e progetti di un PC basato su processore Intel 8088 8Bit
 -  ---
 
 -  https://www.zimmers.net/
--  https://www.youtube.com/watch?v=lNep0mzGNTU&list=PLjQDRjQfW-85S5QkX8wZbkqichM6TLYYt&ab_channel=DrMattRegan
+
 -  ---
 
 -  https://www.youtube.com/watch?v=lLg1AgA2Xoo&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb&ab_channel=DigiKey
