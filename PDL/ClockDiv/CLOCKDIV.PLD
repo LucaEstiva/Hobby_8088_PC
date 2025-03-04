@@ -1,0 +1,38 @@
+Name     ClockDiv;
+PartNo   1;
+Date     04/03/2025;
+Revision 01;
+Designer Luca;
+Company  none;
+Assembly None;
+Location None;
+Device   g16v8a;
+
+/* *************** INPUT PINS ******************** */
+
+PIN 1	= Clock;
+PIN 2	= Clk;
+PIN 3	= Reset;
+PIN 11	= OE;
+
+/* *************** OUTPUT PINS ******************** */
+
+PIN 12    = Q0;
+PIN 13    = Q1;
+PIN 14    = Q2;
+PIN 15    = Q3;
+PIN 16    = Q4;
+PIN 17    = Q5;
+PIN 18    = Q6;
+PIN 19    = Q7;
+
+/* CLOCK / 2 */
+Q0.D = (!Q0);
+/* CLOCK / 4 */
+Q1.D = (Q0 & !Q1 # !Q0 & Q1);
+/* CLOCK / 8 */
+Q2.D = (Q0 & Q1 & !Q2 # !Q1 & Q2 # !Q0 & Q2);
+/* CLOCK / 12 */
+Q3.D = (Q0 & Q1 & Q2 & !Q3 # !Q2 & Q3 # !Q1 & Q3 # !Q0 & Q3);
+/* CLOCK / 16 */
+Q4.D = (Q0 & Q1 & Q2 & Q3 & !Q4# !Q3 & Q4# !Q2 & Q4# !Q1 & Q4# !Q0 & Q4);
