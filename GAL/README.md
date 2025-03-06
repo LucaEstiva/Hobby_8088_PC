@@ -30,7 +30,7 @@ E' possibile scaricare ABEL direttamente da questo repository.
 
 Per generare il file jed, sarà necessario eseguire gli step:
 
-![alt text](https://github.com/LucaEstiva/Hobby_8088_PC/blob/main/Images/ABEL/VirtualBox_Win_XP_ABEL_1.png?raw=true "ABEL COMPILE")
+![alt text](https://github.com/LucaEstiva/Hobby_8088_PC/blob/main/Images/ABEL/VirtualBox_Win_XP_ABEL_2.png?raw=true "ABEL COMPILE")
 
 - Compile
 - Optimize
