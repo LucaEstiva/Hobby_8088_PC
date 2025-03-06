@@ -24,9 +24,18 @@ ABEL (Advanced Boolean Expression Language)\
 Può essere utilizzato su macchina virtuale con Windows XP.
 E' possibile scaricare ABEL direttamente da questo repository.
 
+- Utilizzare ABEL GUI:
+
 ![alt text](https://github.com/LucaEstiva/Hobby_8088_PC/blob/main/Images/ABEL/VirtualBox_Win_XP_ABEL_1.png?raw=true "ABEL ON XP")
 
-Sarà necessario aggiungere al path i seguenti percorsi ( Pannello di controllo - Sistema - Avanzate - Variabili ambiente )\
+Per generare il file jed, sarà necessario eseguire gli step:
+
+- Compile
+- Optimize
+- Fit
+- FPGA/PLDmap
+
+Per utilizzare ABEL utlizzando la riga di comando dal prompt di MS-Dos sarà necessario aggiungere al path i seguenti percorsi ( Pannello di controllo - Sistema - Avanzate - Variabili ambiente )\
 
 - ahdl2pla
 
