@@ -19,3 +19,11 @@
 ABEL (Advanced Boolean Expression Language)
 Può essere utilizzato su macchina virtuale con Windows XP.
 E' possibile scaricare ABEL direttamente da questo repository.
+
+![alt text](https://github.com/LucaEstiva/Hobby_8088_PC/blob/[branch]/image.jpg?raw=true)
+
+Sarà necessario aggiungere al path i seguenti percorsi ( Pannello di controllo - Sistema - Avanzate - Variabili ambiente )
+set ABELDEV=D:\ABEL\LIB4
+set PATH=%PATH%;D:\ABEL
+
+- ahdl2pla "pathtoablfile"
