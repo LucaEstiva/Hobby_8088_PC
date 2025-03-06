@@ -20,7 +20,7 @@
 - [GAL26V12C](https://www.digikey.it/it/products/detail/rochester-electronics-llc/GAL26V12C-20LPI12121153)
 
 # ABEL
-ABEL (Advanced Boolean Expression Language)
+ABEL (Advanced Boolean Expression Language)\
 Può essere utilizzato su macchina virtuale con Windows XP.
 E' possibile scaricare ABEL direttamente da questo repository.
 
