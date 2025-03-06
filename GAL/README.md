@@ -5,6 +5,9 @@
 - (GAL specific information)[https://www.ythiee.com/2021/06/06/gal-specific-information/]
 - (PLD Compilers)[https://www.ythiee.com/2021/06/06/pld-compilers/]
 
+- (VirtualBox)[https://www.virtualbox.org/]
+- (Windows XP Professional SP3)[https://archive.org/details/WinXPProSP3x86]
+- (Windows XP Product Key)[https://github.com/Fuwn/xp]
 
 
 ## Alcuni aricoli interessanti:
