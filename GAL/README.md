@@ -17,7 +17,9 @@
 
 # High Performance E2CMOS PLDGeneric Array Logic™
 
-- [GAL26V12C](https://www.digikey.it/it/products/detail/rochester-electronics-llc/GAL26V12C-20LPI12121153)
+- [GAL26V12C](https://github.com/LucaEstiva/Hobby_8088_PC/blob/main/GAL/26CV12.PDF)
+
+- [GAL20RA10](https://github.com/LucaEstiva/Hobby_8088_PC/blob/main/GAL/GAL20RA10.PDF)
 
 # ABEL
 ABEL (Advanced Boolean Expression Language)\
