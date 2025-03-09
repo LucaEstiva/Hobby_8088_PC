@@ -21,7 +21,7 @@
 
 - [GAL20RA10](https://github.com/LucaEstiva/Hobby_8088_PC/blob/main/GAL/GAL20RA10.PDF)
 
-## Alcune peculiarità del chip GAL 20RA 10
+## Alcune peculiarità del chip GAL 20RA10
 
 - Reset Asincrono indipendente per ogni Flip Flop:
 
