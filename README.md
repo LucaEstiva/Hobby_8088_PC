@@ -54,6 +54,8 @@ Studio e progetti di un PC basato su processore Intel 8088 8Bit
 ## Simulazioni
 [Proteus 8](https://www.labcenter.com/free-trial/)
 
+## OS
+[OSDev.org](https://wiki.osdev.org/Expanded_Main_Page)
 
 ## Libri:
 

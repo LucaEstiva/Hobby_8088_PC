@@ -11,7 +11,7 @@
 
 
 
-## Alcuni aricoli interessanti:
+## Alcuni articoli interessanti:
 - [KIM-64](https://www.ythiee.com/2025/01/05/kim-64/)
 - [GAL22V10](https://www.ythiee.com/tag/gal22v10/)
 
