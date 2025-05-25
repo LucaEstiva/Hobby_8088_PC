@@ -47,10 +47,10 @@ Le correnti prelevabili da ogni singolo terminale sono sufficienti, se si tengon
 
 ## Altera serie 7000
 
-[!NOTE]
-Non è disponibile un adattatore PLCC68 DIP68 o PLC84 DIP84. Il numero di porte di una singola logica programmabile non
-è sufficiente per gestire tutti i segnali necessari. Per il momento ne verrano utilizzate due. Successivamente verrà utilizzata una logica
-programmabile con package 100-Pin TQFP.
+> [!NOTE]
+> Non è disponibile un adattatore PLCC68 DIP68 o PLC84 DIP84. Il numero di porte di una singola logica programmabile non
+> è sufficiente per gestire tutti i segnali necessari. Per il momento ne verrano utilizzate due. Successivamente verrà utilizzata una logica
+> programmabile con package 100-Pin TQFP.
 
 ![EPM7032SLC44](Immagini/Altera-EPM7032SLC44-10.avif)
 
