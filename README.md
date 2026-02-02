@@ -1,5 +1,5 @@
 # Hobby_8088_PC
-Studio e progetti di un PC basato su processore Intel 8088 8Bit
+Studio e progetti di un PC basato su processore Intel 8088
 
 > E' un progetto realizzato nel tempo libero, quindi ancora incompleto, ma, viste le risorse disponibili, sicuramente funzionante.
 > D'altro canto sarebbe sufficiente "copiare" dagli schemi forniti l'interia circuiteria ed assemblare cosi il PC. Tuttavia lo scopo
