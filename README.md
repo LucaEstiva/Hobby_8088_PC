@@ -2,13 +2,9 @@
 Studio e progetti di un PC basato su processore Intel 8088
 
 > E' un progetto realizzato nel tempo libero, quindi ancora incompleto, ma, viste le risorse disponibili, sicuramente funzionante.
-> D'altro canto sarebbe sufficiente "copiare" dagli schemi forniti l'interia circuiteria ed assemblare cosi il PC. Tuttavia lo scopo
-> del progetto è quello di capire l'architettura del PC XT IBM e, come nel caso di alcuni progetti già realizzati della quale sono
-> presenti i link dei loro creatori, divertirsi con la logica dell'architettura, aggiornarla, oppure volendo, modificarla a piacere.
->
-> Aggiornerò il progetto quando mi sarà possibile...
->
-> PS: Il WEB è pieno di risorse utili, il sottoscritto ne possiede alcuni Terabytes :)
+> D'altro canto sarebbe sufficiente "copiare" dagli schemi forniti l'intera circuiteria ed assemblare cosi il PC. Tuttavia lo scopo
+> del progetto è quello di capire l'architettura del PC XT IBM e, divertirsi con la logica dell'architettura, aggiornarla, oppure volendo,
+> modificarla a piacere.
 
 ## Fonti...:
 -  https://it.wikipedia.org/wiki/IBM_Personal_Computer_XT
