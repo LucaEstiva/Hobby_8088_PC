@@ -6,7 +6,7 @@ Studio e progetti di un PC basato su processore Intel 8088
 > del progetto è quello di capire l'architettura del PC XT IBM e, divertirsi con la logica dell'architettura, aggiornarla, oppure volendo,
 > modificarla a piacere.
 
-## Fonti...:
+## Fonti:
 -  https://it.wikipedia.org/wiki/IBM_Personal_Computer_XT
 -  https://www.vlsisystemdesign.com/propagation-delay-of-cmos-inverter/
 
